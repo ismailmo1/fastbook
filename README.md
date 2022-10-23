@@ -18,9 +18,9 @@ You can open any chapter of the book in Colab by clicking on one of these links:
 
 
 
-- [ ] [Introduction to Jupyter](https://colab.research.google.com/github/ismailmo1/fastbook/blob/master/app_jupyter.ipynb)
+- [X] [Introduction to Jupyter](https://colab.research.google.com/github/ismailmo1/fastbook/blob/master/app_jupyter.ipynb)
 
-- [ ] [Chapter 1, Intro](https://colab.research.google.com/github/ismailmo1/fastbook/blob/master/01_intro.ipynb)
+- [X] [Chapter 1, Intro](https://colab.research.google.com/github/ismailmo1/fastbook/blob/master/01_intro.ipynb)
 
 - [ ] [Chapter 2, Production](https://colab.research.google.com/github/ismailmo1/fastbook/blob/master/02_production.ipynb)
 
