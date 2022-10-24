@@ -22,7 +22,7 @@ You can open any chapter of the book in Colab by clicking on one of these links:
 
 - [X] [Chapter 1, Intro](https://colab.research.google.com/github/ismailmo1/fastbook/blob/master/01_intro.ipynb)
 
-- [ ] [Chapter 2, Production](https://colab.research.google.com/github/ismailmo1/fastbook/blob/master/02_production.ipynb)
+- [X] [Chapter 2, Production](https://colab.research.google.com/github/ismailmo1/fastbook/blob/master/02_production.ipynb)
 
 - [ ] [Chapter 3, Ethics](https://colab.research.google.com/github/ismailmo1/fastbook/blob/master/03_ethics.ipynb)
 
