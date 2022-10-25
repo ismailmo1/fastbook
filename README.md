@@ -24,9 +24,9 @@ You can open any chapter of the book in Colab by clicking on one of these links:
 
 - [X] [Chapter 2, Production](https://colab.research.google.com/github/ismailmo1/fastbook/blob/master/02_production.ipynb)
 
-- [ ] [Chapter 3, Ethics](https://colab.research.google.com/github/ismailmo1/fastbook/blob/master/03_ethics.ipynb)
+- [X] [Chapter 3, Ethics](https://colab.research.google.com/github/ismailmo1/fastbook/blob/master/03_ethics.ipynb)
 
-- [ ] [Chapter 4, MNIST Basics](https://colab.research.google.com/github/ismailmo1/fastbook/blob/master/04_mnist_basics.ipynb)
+- [X] [Chapter 4, MNIST Basics](https://colab.research.google.com/github/ismailmo1/fastbook/blob/master/04_mnist_basics.ipynb)
 
 - [ ] [Chapter 5, Pet Breeds](https://colab.research.google.com/github/ismailmo1/fastbook/blob/master/05_pet_breeds.ipynb)
 
